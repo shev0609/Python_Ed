@@ -4,6 +4,7 @@
 ### Input: n =700; m = 750. Output: 2.
 
 ### Решение
-n = 700
-m = 750
-print(m/n)
+n = int(input('n--> '))
+# m = 750
+# print(750/700)
+print(n, type(n))
