@@ -10,5 +10,7 @@ a = 1
 result = 1
 while a <= n:
     result = result * a
+### result *= a * Можно сократить строку вот так
     a += 1
+### a = a + 1 * На место (a += 1)
 print(result)
