@@ -14,3 +14,11 @@ while a <= n:
     a += 1
 ### a = a + 1 * На место (a += 1)
 print(result)
+
+### Решение без f
+### n = int(input('Введите число: '))
+### result = 1
+### while n! = 0:
+###   result *= a
+###   n -= 1
+### print(result)
